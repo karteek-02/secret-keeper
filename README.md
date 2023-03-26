@@ -21,7 +21,7 @@ CLIENT_SECRET = client_secret
 
 ## Usage
 ```shell
-npm i #for insatling all the packages
+npm i #for installing all the packages
 npm start #start the app in local server
 ```
 
