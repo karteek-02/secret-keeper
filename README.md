@@ -1,6 +1,6 @@
 # Project Title
 
-Secret Keeper is an application that stores that stores your secrets and reveals it when logged in.
+Secret Keeper is an application that stores your secrets and reveals it when logged in.
 
 ## Table of Contents
 - [Installation](#installation)
